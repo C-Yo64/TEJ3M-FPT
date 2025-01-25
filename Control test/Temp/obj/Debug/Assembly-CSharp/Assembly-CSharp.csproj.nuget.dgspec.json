@@ -1,0 +1,2351 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Assembly-CSharp.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Assembly-CSharp\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Cinemachine.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Cinemachine.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\com.unity.cinemachine.editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\com.unity.cinemachine.editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.EditorCoroutines.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.EditorCoroutines.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Performance.Profile-Analyzer.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Performance.Profile-Analyzer.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.PlasticSCM.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.PlasticSCM.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Rider.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Rider.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Sysroot.Linux_x86_64.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Sysroot.Linux_x86_64.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.SysrootPackage.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.SysrootPackage.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TestTools.CodeCoverage.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TestTools.CodeCoverage.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TextMeshPro.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TextMeshPro.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TextMeshPro.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TextMeshPro.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Timeline.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Timeline.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Timeline.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Timeline.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Toolchain.Win-x86_64-Linux-x86_64.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Toolchain.Win-x86_64-Linux-x86_64.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.SettingsProvider.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.SettingsProvider.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Shared.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Shared.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.State.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.State.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.State.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.State.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualStudio.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualStudio.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VSCode.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VSCode.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Cinemachine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Cinemachine.csproj",
+        "projectName": "Cinemachine",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Cinemachine.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Cinemachine\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Timeline.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Timeline.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\com.unity.cinemachine.editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\com.unity.cinemachine.editor.csproj",
+        "projectName": "com.unity.cinemachine.editor",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\com.unity.cinemachine.editor.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\com.unity.cinemachine.editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Cinemachine.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Cinemachine.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Timeline.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Timeline.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Timeline.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Timeline.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.EditorCoroutines.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.EditorCoroutines.Editor.csproj",
+        "projectName": "Unity.EditorCoroutines.Editor",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.EditorCoroutines.Editor.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.EditorCoroutines.Editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Performance.Profile-Analyzer.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Performance.Profile-Analyzer.Editor.csproj",
+        "projectName": "Unity.Performance.Profile-Analyzer.Editor",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Performance.Profile-Analyzer.Editor.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.Performance.Profile-Analyzer.Editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.PlasticSCM.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.PlasticSCM.Editor.csproj",
+        "projectName": "Unity.PlasticSCM.Editor",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.PlasticSCM.Editor.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.PlasticSCM.Editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Rider.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Rider.Editor.csproj",
+        "projectName": "Unity.Rider.Editor",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Rider.Editor.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.Rider.Editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Settings.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Settings.Editor.csproj",
+        "projectName": "Unity.Settings.Editor",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Settings.Editor.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.Settings.Editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Sysroot.Linux_x86_64.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Sysroot.Linux_x86_64.csproj",
+        "projectName": "Unity.Sysroot.Linux_x86_64",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Sysroot.Linux_x86_64.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.Sysroot.Linux_x86_64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.SysrootPackage.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.SysrootPackage.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.SysrootPackage.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.SysrootPackage.Editor.csproj",
+        "projectName": "Unity.SysrootPackage.Editor",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.SysrootPackage.Editor.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.SysrootPackage.Editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TestTools.CodeCoverage.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TestTools.CodeCoverage.Editor.csproj",
+        "projectName": "Unity.TestTools.CodeCoverage.Editor",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TestTools.CodeCoverage.Editor.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.TestTools.CodeCoverage.Editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Settings.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Settings.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj",
+        "projectName": "Unity.TestTools.CodeCoverage.Editor.OpenCover.Model",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj",
+        "projectName": "Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TextMeshPro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TextMeshPro.csproj",
+        "projectName": "Unity.TextMeshPro",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TextMeshPro.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.TextMeshPro\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TextMeshPro.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TextMeshPro.Editor.csproj",
+        "projectName": "Unity.TextMeshPro.Editor",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TextMeshPro.Editor.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.TextMeshPro.Editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TextMeshPro.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.TextMeshPro.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Timeline.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Timeline.csproj",
+        "projectName": "Unity.Timeline",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Timeline.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.Timeline\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Timeline.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Timeline.Editor.csproj",
+        "projectName": "Unity.Timeline.Editor",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Timeline.Editor.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.Timeline.Editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Timeline.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Timeline.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Toolchain.Win-x86_64-Linux-x86_64.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Toolchain.Win-x86_64-Linux-x86_64.csproj",
+        "projectName": "Unity.Toolchain.Win-x86_64-Linux-x86_64",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Toolchain.Win-x86_64-Linux-x86_64.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.Toolchain.Win-x86_64-Linux-x86_64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Sysroot.Linux_x86_64.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.Sysroot.Linux_x86_64.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.SysrootPackage.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.SysrootPackage.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.csproj",
+        "projectName": "Unity.VisualScripting.Core",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.VisualScripting.Core\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.Editor.csproj",
+        "projectName": "Unity.VisualScripting.Core.Editor",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.Editor.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.VisualScripting.Core.Editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.csproj",
+        "projectName": "Unity.VisualScripting.Flow",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.VisualScripting.Flow\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.Editor.csproj",
+        "projectName": "Unity.VisualScripting.Flow.Editor",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.Editor.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.VisualScripting.Flow.Editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.SettingsProvider.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.SettingsProvider.Editor.csproj",
+        "projectName": "Unity.VisualScripting.SettingsProvider.Editor",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.SettingsProvider.Editor.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.VisualScripting.SettingsProvider.Editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.State.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.State.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Shared.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Shared.Editor.csproj",
+        "projectName": "Unity.VisualScripting.Shared.Editor",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Shared.Editor.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.VisualScripting.Shared.Editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.State.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.State.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.State.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.State.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.State.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.State.csproj",
+        "projectName": "Unity.VisualScripting.State",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.State.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.VisualScripting.State\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.State.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.State.Editor.csproj",
+        "projectName": "Unity.VisualScripting.State.Editor",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.State.Editor.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.VisualScripting.State.Editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Core.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.Editor.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.Flow.Editor.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.State.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualScripting.State.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualStudio.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualStudio.Editor.csproj",
+        "projectName": "Unity.VisualStudio.Editor",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VisualStudio.Editor.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.VisualStudio.Editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VSCode.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VSCode.Editor.csproj",
+        "projectName": "Unity.VSCode.Editor",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Unity.VSCode.Editor.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\Unity.VSCode.Editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\UnityEditor.TestRunner\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj",
+        "projectName": "UnityEditor.UI",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.UI.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\UnityEditor.UI\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEditor.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj"
+              },
+              "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+                "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\UnityEngine.TestRunner\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj",
+        "projectName": "UnityEngine.UI",
+        "projectPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\UnityEngine.UI.csproj",
+        "packagesPath": "C:\\Users\\young\\.nuget\\packages\\",
+        "outputPath": "Z:\\School Projects\\TEJ3M\\FPT\\Control test\\Temp\\obj\\Debug\\UnityEngine.UI\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\young\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
